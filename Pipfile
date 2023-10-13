@@ -7,8 +7,16 @@ name = "pypi"
 flake8 = "*"
 black = "*"
 pre-commit = "*"
+netcdf4 = "*"
+jupyter = "*"
+pandas = "*"
+matplotlib = "*"
+cartopy = "*"
+scipy = "*"
+torch = "*"
 
 [dev-packages]
+pandas = "*"
 
 [requires]
 python_version = "3.11"

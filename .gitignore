@@ -11,6 +11,7 @@ downloads/
 lib/
 lib64/
 var/
+assets/
 
 # Jupyter Notebook
 .ipynb_checkpoints
